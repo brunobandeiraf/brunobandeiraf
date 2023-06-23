@@ -6,7 +6,7 @@ Master's Degree (2016-2018) in Computer Science at the Federal University of San
 Currently works as a teaching specialist at CTAI/Senai SC, teaching subjects such as Application Programming, Systems Testing, and Systems Modeling. At Senai, I have also taught courses in Database Management, System Maintenance, System Implementation, and Web Development. Currently, I also work as an online tutoring professor at the University Foundation of Tocantins, overseeing 4 teaching centers, in the discipline of Front-End Development.
 
 # 
-![](https://github-readme-stats.vercel.app/api?username=brunobandeiraf&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brunobandeiraf&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobandeiraf&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
