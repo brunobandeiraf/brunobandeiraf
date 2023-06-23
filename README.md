@@ -4,9 +4,6 @@ Hello 👋, I'm Bruno, from Tocantins, I live in Floripa, and a programmer since
 Master's Degree (2016-2018) in Computer Science at the Federal University of Santa Catarina. Holds a Bachelor's Degree in Computer Science from the Federal University of Tocantins (2010-2014) and Information Systems from the Lutheran University Center of Palmas. Professional with 13 years of experience in the software development market and 9 years in the field of education, teaching technology. 
 
 Currently works as a teaching specialist at CTAI/Senai SC, teaching subjects such as Application Programming, Systems Testing, and Systems Modeling. At Senai, I have also taught courses in Database Management, System Maintenance, System Implementation, and Web Development. Currently, I also work as an online tutoring professor at the University Foundation of Tocantins, overseeing 4 teaching centers, in the discipline of Front-End Development.
-# 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunobandeiraf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-bandeira-fernandes/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brunobandeirafernandes/about) 
-
 
 # 
 ![](https://github-readme-stats.vercel.app/api?username=brunobandeiraf&theme=default&hide_border=false&include_all_commits=false&count_private=false)
