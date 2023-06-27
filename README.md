@@ -1,4 +1,9 @@
-Hello 👋, I'm Bruno, from Tocantins, I live in Floripa, and a programmer since 2009. Currently, I am a professor at CTAI/SENAI SC and an online tutoring professor at Unitins. Passionate about technology, finance, and traveling.
+<img align="right" src="https://github.com/brunobandeiraf/brunobandeiraf/assets/28060530/a366afc2-527c-4e41-8990-b190514050b3" width="300"/>
+
+
+### Hello, I'm Bruno 👋
+
+I’m a professor at CTAI/SENAI SC and an online tutoring professor at Unitins that loves everything about coding (programmer since 2009). Passionate about technology, finance, and traveling.
 
 # 
 Master's Degree (2016-2018) in Computer Science at the Federal University of Santa Catarina. Holds a Bachelor's Degree in Computer Science from the Federal University of Tocantins (2010-2014) and Information Systems from the Lutheran University Center of Palmas. Professional with 13 years of experience in the software development market and 9 years in the field of education, teaching technology. 
