@@ -14,8 +14,8 @@ Currently works as a teaching specialist at CTAI/Senai SC, teaching subjects suc
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brunobandeiraf&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobandeiraf&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=brunobandeiraf&icon=0&color=12)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
