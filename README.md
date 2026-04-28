@@ -3,12 +3,18 @@
 
 ### Hello, I'm Bruno 👋
 
-I’m a professor at CTAI/SENAI SC and an online tutoring professor at Unitins that loves everything about coding (programmer since 2009). Passionate about technology, finance, and traveling.
+Tech Lead and Backend Engineer specialized in TypeScript/Node.js, with 13+ years of experience in software development and a strong background in building scalable and high-performance systems.
 
 # 
-Master's Degree (2016-2018) in Computer Science at the Federal University of Santa Catarina. Holds a Bachelor's Degree in Computer Science from the Federal University of Tocantins (2010-2014) and Information Systems from the Lutheran University Center of Palmas. Professional with 13 years of experience in the software development market and 9 years in the field of education, teaching technology. 
+Currently working as a Tech Lead, I focus on designing backend architectures, leading engineering teams, and driving best practices in code quality, scalability, and system design. My main stack revolves around Node.js, TypeScript, and modern backend ecosystems.
 
-Currently works as a teaching specialist at CTAI/Senai SC, teaching subjects such as Application Programming, Systems Testing, and Systems Modeling. At Senai, I have also taught courses in Database Management, System Maintenance, System Implementation, and Web Development. Currently, I also work as an online tutoring professor at the University Foundation of Tocantins, overseeing 4 teaching centers, in the discipline of Front-End Development.
+I also have an academic background and have been teaching Computer Science since 2017, which strengthens my ability to communicate complex technical concepts, mentor developers, and build high-performing teams.
+
+🎓 Master’s Degree in Computer Science – Federal University of Santa Catarina
+🎓 Bachelor’s Degree in Computer Science – Federal University of Tocantins
+🎓 Bachelor’s Degree in Information Systems – Lutheran University Center of Palmas
+
+Passionate about technology, system design, finance, and traveling.
 
 # 
 <!--
